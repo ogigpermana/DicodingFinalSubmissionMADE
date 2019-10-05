@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kesukaan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Movie Review Favorite</string>
+    <string name="nav_header_subtitle">ogigpermana@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_favorites">Menu Favorites</string>
+    <string name="menu_tv">Tv Shows</string>
+    <string name="menu_share">Bagikan</string>
+    <string name="label_control">Kontrol</string>
+    <string name="menu_locale">Pengaturan Lokal</string>
+    <string name="menu_about">Tentang</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_content_desc">Poster atu Backdrop</string>
+    <string name="release_date_data">2019</string>
+    <string name="vote_average_data">8.7</string>
+    <string name="title_of_movies_or_tv_shows_data">Title of movies or tv shows</string>
+    <string name="overview_data">This is story about movies or tv shows</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="no_internet">Tidak ada sambungan internet</string>
+</resources>

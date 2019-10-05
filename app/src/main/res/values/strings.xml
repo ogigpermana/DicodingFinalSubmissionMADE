@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Movie Review</string>
+    <string name="menu_movies">Movies</string>
+    <string name="menu_tv_shows">Tv Shows</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_settings_reminder">Settings Reminder</string>
+    <string name="div_label_controls">Controls</string>
+    <string name="icon_avatar">avatar</string>
+    <string name="movie_review_title">Movie Review</string>
+    <string name="email_title">ogigpermana@gmail.com</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string name="movie_title">Movies</string>
+    <string name="tv_shows_title">Tv Shows</string>
+    <string name="favorites_title">Favorites</string>
+
+    <string name="content_desc">Poster or Backdrop</string>
+
+    <!--Dummy Data-->
+    <string name="dummy_title">Judul Film atau Serial Tv</string>
+    <string name="dummy_release">2019</string>
+    <string name="dummy_rating">8.7</string>
+    <string name="dummy_overview">Gambaran atau cerita film dan serial tv</string>
+
+    <!--Data-->
+    <string name="no_data">No data available</string>
+    <string name="no_internet">No internet available</string>
+    <string name="locale_setting_title">Locale Setting</string>
+    <string name="overview">Overview</string>
+
+    <string name="added_to_favorite">Added to favorite</string>
+    <string name="removed_from_favorite">Removed from favorite</string>
+    <string name="title_search">Search</string>
+    <string name="search_hint_movie">Search movies</string>
+    <string name="search_hint_tv">Search tv shows</string>
+
+    <string name="unknown_uri">Unknown URI %1s</string>
+    <string name="new_release_notification">%1s is released. Click to read more!</string>
+    <string name="notification_content">Hi comeback :), we miss you already</string>
+
+    <!--Setting reminder-->
+    <string name="notification_category">Setting Reminder</string>
+    <string name="daily_reminder_key">DAILY_REMINDER_KEY</string>
+    <string name="daily_reminder_title">Daily Reminder</string>
+    <string name="daily_reminder_summary">This app will notify you everyday </string>
+    <string name="new_release_key">NEW_RELEASE_KEY</string>
+    <string name="new_release_title">New Release movie</string>
+    <string name="new_release_summary">This feature will notify you about new release of movie everyday when new release movie came</string>
+    <string name="new_release_summary_on">We Will notify you when new movies released :)</string>
+    <string name="new_release_summary_off">This is bad :( you will not get notify about new release movie</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="others">Others</string>
+    <string name="rating">Rating</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="loading">Loading...</string>
+</resources>
